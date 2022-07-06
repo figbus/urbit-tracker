@@ -1,0 +1,10 @@
+:~
+  title+'Tracker'
+  info+''
+  color+0xf5.f5f5
+  version+[0 0 1]
+  website+'https://github.com/figbus/urbit-tracker'
+  license+'MIT'
+  base+'tracker'
+  glob-ames+[~zod 0v0]
+==
